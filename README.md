@@ -13,3 +13,5 @@ Technology Stack
 **Frontend: XML <br>
 Backend: Java <br>
 Database: SQLite**
+
+The code files are in .java and .xml format. For accessing the files, refer below <br>
