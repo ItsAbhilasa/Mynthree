@@ -10,6 +10,6 @@ Bargain Option: Users can propose a new price for a product, which will be evalu
 Eligibility Check: Only frequent buyers who meet the minimum order criteria can use the bargain feature.
 Technology Stack
 
-**Frontend: XML
-Backend: Java
+**Frontend: XML <br>
+Backend: Java <br>
 Database: SQLite**
