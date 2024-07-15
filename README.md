@@ -25,4 +25,7 @@ A) JAVA FILES: <br>
 7) ProductListAdapter.java <br>
 
 B) XML FILES:<br>
+1) data_extraction_rules.xml <br>
+2) backup_rules.xml <br>
+3) AndroidManifest.xml <br>
 
