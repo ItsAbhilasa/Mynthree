@@ -15,3 +15,14 @@ Backend: Java <br>
 Database: SQLite**
 
 The code files are in .java and .xml format. For accessing the files, refer below <br>
+A) JAVA FILES: <br>
+1) Customer.java <br>
+2) DbHelper.java <br>
+3) HomeActivity.java <br>
+4) LoginActivity.java <br>
+5) Product.java <br>
+6) ProductDetails.java <br>
+7) ProductListAdapter.java <br>
+
+B) XML FILES:<br>
+
